@@ -38,3 +38,27 @@ Este proyecto implementa un **Cifrado César** utilizando JavaScript y dos rueda
 
 ## Estructura de archivos
 
+
+- **index.html**: Contiene la estructura básica de la página (ruedas, campos, botones).
+- **style.css**: Estilos para la interfaz y el efecto “glitch”.
+- **script.js**: Código JavaScript que implementa la lógica del cifrado y actualiza la vista.
+
+## Contribución
+
+¡Toda contribución es bienvenida! Para contribuir:
+
+1. Haz un fork de este repositorio.
+2. Crea una rama con la característica o fix que desees implementar (`git checkout -b feature/nueva-funcionalidad`).
+3. Realiza los cambios y haz un commit claro (`git commit -m "Agrega nueva funcionalidad"`).
+4. Sube tu rama (`git push origin feature/nueva-funcionalidad`).
+5. Abre un **Pull Request** en este repositorio explicando tus cambios.
+
+## Licencia
+
+Este proyecto se distribuye bajo la [Licencia MIT](https://opensource.org/licenses/MIT). Puedes usarlo libremente en tus proyectos personales y comerciales. Consulta el archivo [LICENSE](LICENSE) para más detalles (si decides incluirlo).
+
+---
+
+¡Disfruta aprendiendo y practicando con el Cifrado César!
+
+
