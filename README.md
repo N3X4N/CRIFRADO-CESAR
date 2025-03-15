@@ -53,11 +53,7 @@ Este proyecto implementa un **Cifrado César** utilizando JavaScript y dos rueda
 4. Sube tu rama (`git push origin feature/nueva-funcionalidad`).
 5. Abre un **Pull Request** en este repositorio explicando tus cambios.
 
-## Licencia
 
-Este proyecto se distribuye bajo la [Licencia MIT](https://opensource.org/licenses/MIT). Puedes usarlo libremente en tus proyectos personales y comerciales. Consulta el archivo [LICENSE](LICENSE) para más detalles (si decides incluirlo).
-
----
 
 ¡Disfruta aprendiendo y practicando con el Cifrado César!
 
